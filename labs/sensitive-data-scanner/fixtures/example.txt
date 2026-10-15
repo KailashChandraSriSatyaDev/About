@@ -1,0 +1,6 @@
+# Synthetic test fixture only — no real credentials.
+Contact: analyst@example.org
+AWS_ACCESS_KEY_ID=AKIA1234567890ABCDEF
+API_KEY=not-a-real-secret-123
+PASSWORD=changeme
+-----BEGIN PRIVATE KEY-----
