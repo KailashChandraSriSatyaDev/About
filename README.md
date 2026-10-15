@@ -47,7 +47,9 @@ Submitted vulnerability reports through responsible vulnerability disclosure pro
 - Correlated logs from multiple sources, validated indicators of compromise, and assessed alert severity based on risk and business impact.
 - Investigated suspicious authentication attempts, abnormal network traffic, service disruptions, and configuration deviations.
 - Escalated validated incidents and documented findings to support further investigation and traceability.
-- Performed weekly and monthly alert analysis to identify recurring patterns and false positives, supporting Problem Management and alert-tuning improvements.
+- Conducted weekly and monthly alert analysis to identify recurring false positives and alert patterns; used the findings to support Problem Management and fine-tune alert-detection rules, helping reduce unnecessary alerts.
+- Supported customers with root-cause analysis (RCA) by reviewing alert context, logs, symptoms, and incident timelines and documenting findings for follow-up.
+- Initiated and participated in bridge calls with Engineering and Support teams when automation/monitoring tools failed or operational issues arose, coordinating troubleshooting and communication across teams.
 
 ## Education
 
