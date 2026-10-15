@@ -37,7 +37,10 @@ Developed an NLP-based framework using Sentence-BERT embeddings and cosine simil
 
 ## Responsible Vulnerability Disclosure
 
-Submitted vulnerability reports through responsible vulnerability disclosure programs (RVDPs). This work has involved vulnerability research, validation, documenting findings, and responsible reporting.
+Submitted reports through responsible disclosure processes using passive reconnaissance, OSINT, and controlled read-only validation. Selected work includes an exposure of government procurement documentation acknowledged by the National Critical Information Infrastructure Protection Centre (NCIIPC), and anonymous FTP access-control misconfigurations reported with technical proof-of-concept details.
+
+- **Selected disclosure work:** [Read the summary](responsible-disclosure.md)
+- Target hostnames, IP addresses, and sensitive technical details are intentionally omitted from this public portfolio.
 
 ## Professional Experience
 
